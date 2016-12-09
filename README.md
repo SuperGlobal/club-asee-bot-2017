@@ -1,4 +1,8 @@
 #Columbots ASEE 2017
+## Drawings
+The Solidworks drawings may not complete, there is a local library used for some of the more common/general parts not specific to this robot. Things like boards, dowels etc may require a separate library download. A link to said library download will be added when it becomes available, contact for more information.
+
+## Competition Rules
 *These rules are subject to change and should be used as a reference only. For up to date, official rules refer to the website.
 
 ###Objective
